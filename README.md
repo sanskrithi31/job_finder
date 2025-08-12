@@ -31,7 +31,7 @@ It scrapes job postings from **TimesJobs** based on user-defined keywords, locat
 - **Step 2** : Click "Start Scraping & Generate Emails".
 - **Step 3**: View matching job listings with AI-generated outreach emails.
 
-  ## 📸 Screenshots
+## 📸 Screenshots
 
 ### 1️⃣ Homepage
 ![Homepage](https://raw.githubusercontent.com/sanskrithi31/job_finder/main/assets/Img1.png)
@@ -41,5 +41,11 @@ It scrapes job postings from **TimesJobs** based on user-defined keywords, locat
 
 ### 3️⃣ AI-Generated Outreach Email
 ![Outreach Email](https://raw.githubusercontent.com/sanskrithi31/job_finder/main/assets/Img3.png)
+
+## Few more screenshots
+![Homepage](https://raw.githubusercontent.com/sanskrithi31/job_finder/main/assets/Img4.png)
+![Homepage](https://raw.githubusercontent.com/sanskrithi31/job_finder/main/assets/Img5.png)
+![Homepage](https://raw.githubusercontent.com/sanskrithi31/job_finder/main/assets/Img6.png)
+![Homepage](https://raw.githubusercontent.com/sanskrithi31/job_finder/main/assets/Img7.png)
 
 
